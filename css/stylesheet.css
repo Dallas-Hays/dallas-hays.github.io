@@ -1,0 +1,24 @@
+body {
+  padding-top: 50px;
+  background-color: #4A4A4A;
+}
+.basic-template {
+  padding: 40px 15px;
+  text-align: center;
+  color:white;
+}
+
+.media-heading {
+ padding-top: 23px; /* Headers for github links pushed down to align with pictures*/
+ color: white;
+}
+
+.media-list {
+ width: 34%; /* Position of github etc links */
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.navbar-inverse {
+ background-color: #353535; 
+}
