@@ -9,12 +9,12 @@ body {
 }
 
 h1 {
- font-size: 8vw;  
+ font-size: 50px;  
 }
 .media-heading {
  padding-top: 23px; /* Headers for github links pushed down to align with pictures*/
  color: white;
- font-size: 4.5vw;
+ font-size: 20px;
 }
 
 .media-list {
