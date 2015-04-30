@@ -9,21 +9,19 @@ body {
 }
 
 h1 {
- font-size: 50px;  
+ font-size: 3em;  
 }
 .media-heading {
  padding-top: 23px; /* Headers for github links pushed down to align with pictures*/
  color: white;
  font-size: 18px;
+ text-size-adjust:
 }
 
 .media-list {
- /*width: 60%; /* Position of github etc links */
+ width: 60%; /* Position of github etc links */
  /*margin-left: auto;
  margin-right: auto;*/
-}
-
-.media-object {
 }
 
 .navbar-inverse {
