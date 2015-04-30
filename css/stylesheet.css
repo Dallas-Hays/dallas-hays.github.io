@@ -9,24 +9,23 @@ body {
 }
 
 h1 {
- font-size: 4vw;  
+ font-size: 8vw;  
 }
 .media-heading {
  padding-top: 23px; /* Headers for github links pushed down to align with pictures*/
  color: white;
- font-size: 2.5vw;
+ font-size: 4.5vw;
 }
 
 .media-list {
- width: 60%; /* Position of github etc links */
- margin-left: auto;
- margin-right: auto;
+ /*width: 60%; /* Position of github etc links */
+ /*margin-left: auto;
+ margin-right: auto;*/
+}
+
+.media-object {
 }
 
 .navbar-inverse {
  background-color: #353535; 
-}
-
-.media {
-    
 }
