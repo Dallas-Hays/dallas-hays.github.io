@@ -5,7 +5,7 @@ body {
 .basic-template {
   padding: 40px 15px;
   text-align: center;
-  color:white;
+  color: white;
 }
 
 .media-heading {
@@ -14,11 +14,15 @@ body {
 }
 
 .media-list {
- width: 34%; /* Position of github etc links */
- margin-left: auto;
- margin-right: auto;
+ /*width: 60%; /* Position of github etc links */
+ /*margin-left: auto;*/
+ /*margin-right: auto;*/
 }
 
 .navbar-inverse {
  background-color: #353535; 
+}
+
+.media {
+    
 }

@@ -3,3 +3,7 @@ Sources:
 Github img: https://github.com/logos
 
 LinkedIn img: https://www.whiteworks.nl/wp-content/themes/website2013/images/linkedin-128.png
+
+Buffs img (I changed the colors): http://l.yimg.com/j/assets/i/us/sp/v/ncaab/teams/83/70x70/cbl.png
+
+Resume img (I changed the colors): http://static.iconsplace.com/icons/preview/black/pageview-2-64.png
