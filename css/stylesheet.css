@@ -29,7 +29,7 @@ body {
 }
 @media(max-width: 980px){
     h1 {
-     font-size: 11vw;  
+     font-size: 12vw;  
     }
     .media-heading {
      padding-top: 23px; /* Headers for github links pushed down to align with pictures*/
