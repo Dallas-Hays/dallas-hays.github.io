@@ -11,7 +11,7 @@ body {
  background-color: #353535; 
 }
 
-@media(max-width: 1580px){
+@media(max-width: 1580px){ /* For desktop */
     h1 {
      font-size: 7vw;  
     }
@@ -41,7 +41,7 @@ body {
      color: #CCCCCC
     }
 }
-@media(max-width: 980px){
+@media(max-width: 980px){ /* For mobiles */
     h1 {
      font-size: 12vw;  
     }
