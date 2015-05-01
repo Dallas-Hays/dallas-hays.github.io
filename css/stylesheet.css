@@ -53,5 +53,19 @@ body {
 
     .media-list {
     width: 100%;
-    }   
+    }
+    h3 {
+     color: white;
+    }
+    .about {
+     text-align: left;
+     color: #CCCCCC;
+    }
+    .text-link {
+     color: white;
+     text-decoration: underline;
+    }
+    .text-link:hover {
+     color: #CCCCCC
+    }    
 }
