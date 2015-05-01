@@ -1,6 +1,6 @@
 body {
   padding-top: 50px;
-  background-color: #4A4A4A;
+  background-color: #353535;
 }
 .basic-template {
   padding: 40px 15px;
@@ -25,6 +25,20 @@ body {
      width: 60%; /* Position of github etc links */
      margin-left: auto;
      margin-right: auto;
+    }
+    h3 {
+     color: white;
+    }
+    .about {
+     text-align: left;
+     color: #CCCCCC;
+    }
+    .text-link {
+     color: white;
+     text-decoration: underline;
+    }
+    .text-link:hover {
+     color: #CCCCCC
     }
 }
 @media(max-width: 980px){
